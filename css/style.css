@@ -11,6 +11,62 @@
 
 /* 
 
-    ALTRO
+    GENERAL
 
 */
+section {
+    border: 1px solid lightcoral;
+    margin-bottom: 50px;
+    padding: 30px;
+}
+
+.box {
+    border: 1px solid yellow;
+    background-color: crimson;
+    width: 200px;
+    height: 200px;
+}
+
+.background-lightcoral {
+    background-color: lightcoral;
+}
+
+.background-aquamarine {
+    background-color: aquamarine;
+}
+
+/* 
+
+    SECTION 1
+
+*/
+#upper-div {
+    background-color: green;
+    margin-bottom: 30px;
+}
+
+#lower-div {
+    background-color: blue;
+    margin-top: 30px;
+}
+
+/* 
+
+    SECTION 2
+
+*/
+div.background-lightcoral {
+    margin-bottom: 50px;
+}
+
+div.background-aquamarine.box {
+    margin-bottom: 50px;
+}
+
+div.a.b.c.d.e.f.g.h.i.j.k.l#special {
+    border: 20px solid black;
+}
+
+div.a.b.j.k.l#special {
+    border-color: brown;
+}
