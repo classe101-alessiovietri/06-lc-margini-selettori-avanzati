@@ -97,3 +97,31 @@ a[href][target="_blank"] {
 a.special-link[href][target="_blank"] {
     color: pink;
 }
+
+/* 
+
+    SECTION 4
+
+*/
+.box:hover {
+    background-color: aqua;
+    width: 500px;
+    height: 500px;
+    border: 20px solid purple;
+}
+
+a.link-for-statuses:visited {
+    color: orange;
+}
+
+a.link-for-statuses:active {
+    color: lawngreen;
+}
+
+input.input-for-focus:focus {
+    border: 10px dashed lavender;
+}
+
+.box.active-box:active {
+    border: 20px solid deeppink;
+}
